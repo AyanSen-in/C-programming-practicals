@@ -1,4 +1,5 @@
 //calculation of average
+
 #include <stdio.h>
 int main()
 {

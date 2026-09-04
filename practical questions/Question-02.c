@@ -1,4 +1,5 @@
-//calculation of circumference and area of circle
+//calculation of circumference and area of circle.
+
 #include <stdio.h>
 #define pi 3.14159
 int main()

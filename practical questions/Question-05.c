@@ -1,4 +1,5 @@
-//swapping of two numbers without using third variable 
+//swapping of two numbers without using third variable.
+
 #include<stdio.h>
 int main()
 {
@@ -18,6 +19,4 @@ int main()
 
     return 0;
 
-
-   
 }

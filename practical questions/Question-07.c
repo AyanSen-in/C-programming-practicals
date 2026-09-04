@@ -1,4 +1,5 @@
 //Find the factorial of a natural number.
+
 #include<stdio.h>
 int main()
 {
@@ -18,4 +19,5 @@ int main()
     printf("The factorial of the number %d: %d\n",n,fact);
 
     return 0 ;
+
 }

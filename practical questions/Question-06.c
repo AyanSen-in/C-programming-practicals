@@ -1,4 +1,5 @@
-//Inditication of leap year
+//Inditication of leap year.
+
 #include<stdio.h>
 int main()
 {
@@ -11,4 +12,5 @@ int main()
     }
     else{printf("%d is not a leap year\n ",year);}
     return 0;
+
 }

@@ -1,4 +1,5 @@
-//Swapping of two numbers-using a third variable
+//Swapping of two numbers-using a third variable.
+
 #include<stdio.h>
 
 int main()
